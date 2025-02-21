@@ -6,7 +6,7 @@ AUthor: Clay Schuller
 NUID: 09844651  
 Email: cschulller2@huskers.unl.edu  
 
-AUthor: ___    
+Author: Drew Froistad    
 NUID: ___    
 Email: ___  
 
