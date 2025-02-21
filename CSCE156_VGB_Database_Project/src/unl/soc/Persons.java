@@ -1,17 +1,19 @@
 package unl.soc;
 
+import java.util.List;
+
 public class Persons {
 	
 	private String uuid;
 	private Person person;
-	private String email;
+	private List<String> email;
 	
 	/**
 	 * @param uuid
 	 * @param person
 	 * @param email
 	 */
-	public Persons(String uuid, Person person, String email) {
+	public Persons(String uuid, Person person, List<String> email) {
 		this.uuid = uuid;
 		this.person = person;
 		this.email = email;
@@ -48,14 +50,14 @@ public class Persons {
 	/**
 	 * @return the email
 	 */
-	public String getEmail() {
+	public List<String> getEmail() {
 		return email;
 	}
 
 	/**
 	 * @param email the email to set
 	 */
-	public void setEmail(String email) {
+	public void setEmail(List<String> email) {
 		this.email = email;
 	}
 	

@@ -2,13 +2,13 @@
 # CSCE156 VGB Project
 ## Author Information
 
-AUthor: Clay Schuller  
+Author: Clay Schuller  
 NUID: 09844651  
 Email: cschulller2@huskers.unl.edu  
 
 Author: Drew Froistad    
-NUID: ___    
-Email: ___  
+NUID: 18313569  
+Email: dfroistad2@huskers.unl.edu  
 
 
 ## Github Information
